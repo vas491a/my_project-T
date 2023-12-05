@@ -1,0 +1,6 @@
+Collaborate with cross-functional teams to design, develop, and deploy software solutions
+Troubleshoot and debug issues in existing codebase
+Optimize code for performance and scalability
+Integrate data from various sources and APIs
+Develop and maintain RESTful APIs
+Write and execute unit tests and integration tests
